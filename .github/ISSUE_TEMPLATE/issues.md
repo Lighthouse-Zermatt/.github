@@ -1,6 +1,6 @@
 ---
 name: Issues
-about: Describe this issue in detail
+about: Create and describe this issue in detail
 title: ''
 labels: ''
 assignees: ''
