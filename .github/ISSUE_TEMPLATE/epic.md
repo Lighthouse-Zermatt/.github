@@ -50,8 +50,8 @@ assignees: ''
 ## Timeline and Milestones
 <!-- Provide an estimated timeline for the epic, including any key milestones and their expected completion dates. This helps in planning and tracking progress. -->
 
-- Milestone 1: Description / Date
-- Milestone 2: Description / Date
+- [ ] Milestone 1: Description / Date
+- [ ] Milestone 2: Description / Date
 
 ## Risks and Mitigations
 <!-- Identify any potential risks associated with this epic and outline strategies for mitigating these risks. -->
