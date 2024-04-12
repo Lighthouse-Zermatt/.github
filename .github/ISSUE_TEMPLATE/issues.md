@@ -2,7 +2,7 @@
 name: Issues
 about: Create and describe this issue in detail
 title: ''
-labels: ''
+labels: issue
 assignees: ''
 
 ---

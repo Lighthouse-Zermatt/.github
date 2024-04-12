@@ -2,7 +2,7 @@
 name: Spike
 about: Create a Research Ticket
 title: ''
-labels: ''
+labels: spike
 assignees: ''
 
 ---
